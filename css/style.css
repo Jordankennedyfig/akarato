@@ -108,7 +108,7 @@ input#txtp{
     background-color: #ffffff;
     width: 180px;
     height: 250px;
-    border-radius: 12px;
+    border-radius: 10px;
     box-shadow: 4px 4px 12px #aaaa;
 }
 .card img {
