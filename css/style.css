@@ -103,9 +103,11 @@ input#txtp{
 }
 
 .card {
+    display: inline-table;
+    text-align: center;
     background-color: #ffffff;
     width: 180px;
-    height: 260px;
+    height: 250px;
     border-radius: 12px;
     box-shadow: 4px 4px 12px #aaaa;
 }
@@ -138,8 +140,8 @@ input#txtp{
 
 }
 .card button {
-     
-    background-color: #0d4e8b;
+     text-align: center;
+    background-color: #0d4e8ba8;
     height: 30px;
     border: none;
     padding: 4px;
