@@ -6,6 +6,11 @@
     font-family: Arial, Helvetica, sans-serif;
     
 }
+body {
+    background-color: black;
+    
+}
+
 header {
     background-image: url(sabota.capa.png) ;            
     background-size: cover;
@@ -13,6 +18,7 @@ header {
     padding: 20px;
     background-repeat: no-repeat;    
 }
+
 h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -49,10 +55,12 @@ header a:hover{
     text-decoration: underline;
 }
 main{ 
+    background-color: #fff;
     width: 800px;
     margin: auto;
     margin-top: 50px;
     padding: 40px;
+    border-radius: 10px;
 }
 
 
