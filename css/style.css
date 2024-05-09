@@ -178,22 +178,24 @@ input#txtp{
 }
 
 .dev {
-    text-align: center;
-    background-color: black;
-    color: white;
+    font-style: italic; 
+    text-align: left;
+    color: rgb(0, 0, 0);
     
      
 }
 
 div > p {
+    font-weight: bold;
     display: none;
     text-align: center;
 }
 .dev:hover > p {
     display: block;
-    text-align: ce;
-    color: rgb(255, 255, 255);
-    background-color: black;
+    text-align: left;
+    color: rgb(0, 0, 0);
+  
+   
     
 }
 
