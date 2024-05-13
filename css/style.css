@@ -21,6 +21,13 @@ header {
     padding: 20px;
     background-repeat: no-repeat;    
 }
+a {
+    text-decoration: none;
+}
+mark {
+    background-color: rgb(83, 206, 236);
+    
+}
 
 h1#pixo {
     font-weight: normal;
