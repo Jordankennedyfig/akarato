@@ -220,6 +220,8 @@ div > p {
 #mainmusic {
     background-image: linear-gradient(to bottom,#000000,#242424, #9b9b9b);
     color: white;
+    border-radius: 50px;
+
     
 }
 
