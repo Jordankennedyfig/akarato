@@ -218,7 +218,7 @@ div > p {
 }
 
 #mainmusic {
-    background-color: black;
+    background-image: linear-gradient(to bottom,#000000,#242424, #9b9b9b);
     color: white;
     
 }
