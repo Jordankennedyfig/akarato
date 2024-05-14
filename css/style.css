@@ -145,7 +145,7 @@ input#txtp{
     text-align: center;
     background-color: #ffffff;
     width: 180px;
-    height: 250px;
+    height: 200px;
     border-radius: 10px;
     box-shadow: 4px 4px 12px #aaaa;
 }
@@ -170,21 +170,23 @@ input#txtp{
 .card h1 {
     text-align: center;    
     font-size: 1.2rem;
+    color: #000000;
     }
 .card h2 {
     text-align: center; 
     font-size: .9rem;
-    color: #aaaa;
+    color: #6e6e6eaa;
 
 }
 .card button {
-     text-align: center;
-    background-color: #000000;
+    
+    text-align: center;
+    background-color: #000000da;
     height: 30px;
     border: none;
     padding: 4px;
     width: 100%;
-    color: #ffffff;
+    color: #000000;
     font-size: 1rem;
     font-weight: bold;
     border-radius: 4px ;
@@ -193,6 +195,12 @@ input#txtp{
 .card button:hover {
     background-color: #3c7cc4;
     cursor: pointer;
+}
+
+a.especial {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: normal;
 }
 
 .dev {
