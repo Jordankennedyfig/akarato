@@ -179,22 +179,19 @@ input#txtp{
 }
 .card button {
      text-align: center;
-    background-color: #0d4e8ba8;
+    background-color: #000000;
     height: 30px;
     border: none;
     padding: 4px;
     width: 100%;
-    color: #fff;
+    color: #ffffff;
     font-size: 1rem;
     font-weight: bold;
     border-radius: 4px ;
-
-
-
 }
 
 .card button:hover {
-    background-color: #137de8;
+    background-color: #3c7cc4;
     cursor: pointer;
 }
 
