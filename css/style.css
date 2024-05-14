@@ -21,9 +21,13 @@ header {
     padding: 20px;
     background-repeat: no-repeat;    
 }
+.musicas {
+    font-weight: bold;
+}
 a {
     text-decoration: none;
 }
+
 mark {
     background-color: rgb(83, 206, 236);
     
