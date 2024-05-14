@@ -10,12 +10,12 @@
     
 }
 body {
-    background-image: linear-gradient( to bottom, #fff,#ffffff,rgb(255, 255, 255));
-    
+    background-image: linear-gradient( to bottom, #fff,#ffffff,rgb(255, 255, 255)); 
 }
 
-
-
+.msc {
+    text-align: center;
+}
 header {
     background-image: url(sabota.capa.png) ;            
     background-size: cover;
