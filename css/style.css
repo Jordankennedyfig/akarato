@@ -14,6 +14,8 @@ body {
     
 }
 
+
+
 header {
     background-image: url(sabota.capa.png) ;            
     background-size: cover;
@@ -23,7 +25,13 @@ header {
 }
 .musicas {
     font-weight: bold;
+    
 }
+li {
+    display: inline-table;
+    text-align: center;
+}
+
 a {
     text-decoration: none;
 }
@@ -34,10 +42,10 @@ mark {
 }
 
 h1#pixo {
-    font-weight: normal;
+    font-weight: bold;
     text-align: center;
-    background-color: #000000;
-    color: #ffff;
+    background-color: #ffffff;
+    color: #000000;
 }
 
 h1 {
