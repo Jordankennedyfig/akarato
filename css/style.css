@@ -220,15 +220,16 @@ div > p {
     display: block;
     text-align: left;
     color: rgb(0, 0, 0);
-  
-   
     
 }
 
 #mainmusic {
+    
     background-image: linear-gradient(to bottom,#000000,#242424, #9b9b9b);
     color: white;
-    border-radius: 50px;
+    border-radius: 5px;
+    width:  614px;
+    
 
     
 }
