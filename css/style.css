@@ -109,25 +109,8 @@ img{
     margin: 50px;
     border-radius: 20px;
 }
-img#p {
-    top: 4px;
-    left: 200px;
-    background-color: aliceblue;
-    padding: 15px;
-    position: absolute;       
 
-}
-input#txtp{
-    position: absolute;
-    top: 60px;
-    padding: 11px;
-    left: 85px;
-    border: none;
-    outline: none;
-    border-radius: 10px 0px 0px 10px;
-    background-color: aliceblue;     
-}
-.icon{
+.icon {
     margin-left: 25px;
     width: 25px;
     background-color: aliceblue;
