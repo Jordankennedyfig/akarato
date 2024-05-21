@@ -110,6 +110,17 @@ img{
     border-radius: 20px;
 }
 
+.cap{ 
+    
+    width: 400px;
+    left: 500px;
+    text-align: center;
+    border-radius: 1000px;
+    display: block;
+
+}
+    
+
 .icon {
     margin-left: 25px;
     width: 25px;
