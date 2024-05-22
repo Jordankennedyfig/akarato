@@ -37,6 +37,11 @@ a {
     text-decoration: none;
 }
 
+p {
+    text-align: center;
+    margin: auto;
+}
+
 mark {
     background-color: rgb(83, 206, 236);
     
