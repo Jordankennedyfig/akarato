@@ -10,7 +10,7 @@
     
 }
 body {
-    background-image: linear-gradient( to bottom, #fff,#ffffff,rgb(255, 255, 255)); 
+    background-image: linear-gradient( to bottom, #ffffff,#fffcfc,rgb(0, 0, 0)); 
 }
 
 .msc {
@@ -112,11 +112,9 @@ img{
 
 .cap{ 
     
-    width: 400px;
-    left: 500px;
     text-align: center;
     border-radius: 1000px;
-    display: block;
+    display: auto;
 
 }
     
