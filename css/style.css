@@ -234,6 +234,17 @@ div > p {
     
 }
 
+#cap {
+    background-color: #c9c9c9;
+    font-size: larger;
+    
+}
 
+#cap > img {
+    
+    text-align: center;
+    margin: 10px;
+    
+}
 
 
