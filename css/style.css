@@ -125,12 +125,7 @@ img{
     display: block;
     margin: 50px;
     border-radius: 20px;
-}
-
-.cap{ 
-    border-radius: 50px 10px;
-}
-    
+} 
 
 .icon {
     margin-left: 25px;
@@ -242,9 +237,19 @@ div > p {
 
 #cap {
     background-color: #ffffff;
-    text-align: center;
+    
     
 }
+
+.capstreet{ 
+    border-radius: 50px 10px;
+
+}
+
+.bio {
+    text-align: center;
+}
+   
 
 
     
