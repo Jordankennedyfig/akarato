@@ -233,7 +233,7 @@ div > p {
 
 #articlemusic {
     
-    background-image: linear-gradient(to bottom,#000000,#000000, #000000);
+    background-image: linear-gradient(to bottom,#000000,#292929, #424242);
     color: white;
     border-radius: 50px;
     /*pra colocar no o article no canto, o width: 500px;*/
