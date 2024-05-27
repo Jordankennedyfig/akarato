@@ -9,6 +9,13 @@
     text-align: auto;
     
 }
+h1#titulo{
+    font-family: 'Anton', sans-serif;
+    font-weight: normal;
+    font-size: 70px;
+    
+
+}
 body {
     background-image: linear-gradient( to bottom, #ffffff,#fffcfc,rgb(0, 0, 0)); 
 }
@@ -20,7 +27,7 @@ body {
 header {
     background-image: url(sabota.capa.png) ;            
     background-size: cover;
-    height: 300px; 
+    height: 344px;
     padding: 20px;
     background-repeat: no-repeat;    
 }
