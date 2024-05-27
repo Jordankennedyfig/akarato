@@ -17,7 +17,7 @@ h1#titulo{
 
 }
 body {
-    background-image: linear-gradient( to bottom, #ffffff,#fffcfc,rgb(0, 0, 0)); 
+    background-image: linear-gradient( to bottom, #B0B0AF, #B0B0AF,rgb(0, 0, 0)); 
 }
 
 .msc {
@@ -245,7 +245,7 @@ div > p {
 }
 
 #cap {
-    background-color: #c9c9c9;
+    background-color: #ffffff;
     font-size: larger;
     
 }
