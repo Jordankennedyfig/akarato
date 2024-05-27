@@ -48,10 +48,14 @@ mark {
     
 }
 
-h1#pixo {
-    font-weight: bold;
-    text-align: center;
+.mainpixo{
     background-color: #ffffff;
+
+}
+
+h1#pixo {
+    font-weight: normal;
+    text-align: center;
     color: #000000;
 }
 
@@ -246,5 +250,7 @@ div > p {
     margin: 10px;
     
 }
+
+
 
 
