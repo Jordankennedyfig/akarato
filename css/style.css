@@ -236,7 +236,7 @@ div > p {
     background-image: linear-gradient(to bottom,#000000,#000000, #000000);
     color: white;
     border-radius: 50px;
-    /*pra colocar no canto o width: 500px;*/
+    /*pra colocar no o article no canto, o width: 500px;*/
     margin: 10px 20px 10px 20px;
     text-align: center; 
     
