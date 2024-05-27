@@ -225,8 +225,10 @@ div > p {
     
     background-image: linear-gradient(to bottom,#000000,#242424, #9b9b9b);
     color: white;
-    border-radius: 10px 40px ;
-    width:  614px;
+    border-radius: 50px;
+    width: 500px;
+    margin: 10px 20px 10px 20px;
+    text-align: center; 
     
 
     
