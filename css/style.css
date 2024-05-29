@@ -56,7 +56,8 @@ mark {
 }
 
 .mainpixo{
-    background-color: #ffffff;
+    background-color: #000000;
+    
 
 }
 
@@ -248,9 +249,13 @@ div > p {
 }
 
 .bio {
+    
+    font-size: 3em;
     text-align: center;
+    float: left;
 }
-   
+
+
 
 
     
