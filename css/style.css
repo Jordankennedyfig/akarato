@@ -49,6 +49,10 @@ p {
     margin: auto;
     padding: 5px;
 }
+.pbio {
+    margin: 40px;
+    text-align: right;
+}
 
 mark {
     background-color: rgb(83, 206, 236);
