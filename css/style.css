@@ -250,10 +250,18 @@ div > p {
 
 #cap {
     background-color: #ffffff;
+    display: inline-flex;
+    margin: 20px;
     
     
 }
-
+#cap > h1 {
+    font-size: 5em;
+}
+#cap > p {
+    
+    text-align: left;
+}
 .capstreet{ 
     border-radius: 10px 10px 10px 10px; 
     float: right;
