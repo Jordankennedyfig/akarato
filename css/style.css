@@ -125,6 +125,7 @@ main{
 footer{
     font-family: Arial, Helvetica, sans-serif;
     padding: 50px;
+    margin-top: 50px;
     color: white;
     background-color: rgb(0, 0, 0);
     text-align: center;
