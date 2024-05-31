@@ -257,7 +257,10 @@ div > p {
 .capstreet{ 
     border-radius: 10px 10px 10px 10px; 
     float: right;
-   margin-top: 180px;
+    margin-top: 180px;
+    width: 400px;
+
+
     
    
 
