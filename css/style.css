@@ -252,6 +252,7 @@ div > p {
     background-color: #ffffff;
     display: inline-flex;
     margin: 20px;
+    position: relative;
     
     
 }
@@ -272,12 +273,13 @@ div > p {
     
    
 
-
 }
 
 #bio {
     float: right;
     position: relative;
+    margin: 5px;
+
 
 }
 .bio {    
