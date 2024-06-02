@@ -275,6 +275,11 @@ div > p {
 
 }
 
+#bio {
+    float: right;
+    position: relative;
+
+}
 .bio {    
     font-size: 3em;
     text-align: center;
