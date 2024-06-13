@@ -17,7 +17,7 @@ h1#titulo{
 
 }
 body {
-    background-image: linear-gradient( to bottom, #B0B0AF, #B0B0AF,rgb(0, 0, 0)); 
+    background-image: linear-gradient( to bottom, #000000, #B0B0AF,rgb(0, 0, 0)); 
 }
 
 .msc {
