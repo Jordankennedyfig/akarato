@@ -6,12 +6,10 @@
     margin: 0px;
     padding: 0px;
     font-family: Arial, Helvetica, sans-serif;
-    
-    
 }
 
 body {
-    background-image: linear-gradient( to bottom, #000000, #B0B0AF,rgb(0, 0, 0)); 
+    background-image: linear-gradient( to bottom, #ffffff, #ffffff,rgb(255, 255, 255)); 
 }
 
 .msc {
