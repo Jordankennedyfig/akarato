@@ -9,7 +9,7 @@
 }
 
 body {
-    background-image: linear-gradient( to bottom, #ffffff, #ffffff,rgb(255, 255, 255)); 
+    background-image: linear-gradient( to bottom, #ffffff, #ffffff,rgb(0, 0, 0)); 
 }
 
 .msc {
@@ -40,12 +40,12 @@ header > h1 {
 
 nav { 
     font-family: 'Anton', Arial, sans-serif;
+    background-color: #A1A1A1;
     text-decoration: none;
     padding: 10px;
-    border-radius: 20px;
     font-weight: normal;
-    margin-right: 5px;
     transition-duration: 0.5s;
+    
 }
 
 nav > a:hover {
