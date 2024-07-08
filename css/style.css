@@ -39,21 +39,21 @@ header > h1 {
 }
 
 nav { 
-    font-family: 'Anton', Arial, sans-serif;
-    background-color: #A1A1A1;
-    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #6969699c;
+    color: #000000;
     padding: 10px;
-    font-weight: normal;
+    font-weight: bold;
     transition-duration: 0.5s;
     
 }
 
 nav > a:hover {
 
-    text-decoration: underline;
-    color: rgb(253, 253, 253);
-    background-color: transparent;
-    font-weight: normal;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.055);
+    font-weight: bold;
 }
 
 header h1 { 
