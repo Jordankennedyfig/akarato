@@ -277,7 +277,7 @@ div > p {
 
 #articlemusic {
     
-    background-image: linear-gradient(to bottom,#000000,#292929, #424242);
+    background-image: linear-gradient(to bottom,#ffffff,#ffffff, #ffffff);
     color: white;
     border-radius: 10px 40px;
     width: 500px;
@@ -289,6 +289,13 @@ div > p {
     
 
     
+}
+
+article > p {
+    color: black;
+}
+article > h1 {
+    color: black;
 }
 
 #cap {
