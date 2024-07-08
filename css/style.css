@@ -15,10 +15,12 @@ body {
 }
 
 .msc {
+    
     font-family: "Anton", Arial, sans-serif;
     text-align: center;
 }
 header {
+
     min-height: 150px;
     background-image: linear-gradient(to bottom, black, darkgrey);   
     min-height: 150px;
@@ -26,6 +28,34 @@ header {
     background-repeat: no-repeat;    
     min-height: 150px;
    
+}
+
+header > h1 { 
+
+    color: rgb(255, 255, 255);    
+    font-family: var(--fonte-destaque);
+    font-size: 3em;
+    font-weight: normal;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.473);
+}
+
+nav { 
+    font-family: 'Anton', Arial, sans-serif;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 20px;
+    font-weight: normal;
+    margin-right: 5px;
+    transition-duration: 0.5s;
+}
+
+nav > a:hover {
+
+    text-decoration: underline;
+    color: rgb(253, 253, 253);
+    background-color: transparent;
+    font-weight: normal;
 }
 
 header h1 { 
