@@ -325,6 +325,7 @@ article > p {
     color: black;
     font-weight: normal;
 }
+
 article > h1 {
 
     color: black;
@@ -341,16 +342,19 @@ article > h1 {
     
     
 }
+
 #cap > h1 {
 
     font-size: 5em;
 }
+
 #cap > p {
     
     text-align: center;
 }
+
 .capstreet{ 
-    
+
     border-radius: 10px 10px 10px 10px; 
     float: right;
     margin-top: 180px;
@@ -363,13 +367,16 @@ article > h1 {
 }
 
 #bio {
+
     float: right;
     position: relative;
     margin: 5px;
 
 
 }
+
 .bio {    
+
     font-size: 3em;
     text-align: center;
     float: left;
