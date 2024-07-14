@@ -241,11 +241,14 @@ img{
 }
 
 .card h1 {
+
     text-align: center;    
     font-size: 1.2rem;
     color: #000000;
     }
+
 .card h2 {
+
     text-align: center; 
     font-size: .9rem;
     color: #6e6e6eaa;
@@ -266,17 +269,20 @@ img{
 }
 
 .card button:hover {
+
     background-color: #3c7cc4;
     cursor: pointer;
 }
 
 a.especial {
+
     font-family: Arial, Helvetica, sans-serif;
     color: white;
     font-weight: normal;
 }
 
 .dev {
+
     font-style: italic; 
     text-align: left;
     color: rgb(0, 0, 0);
@@ -285,6 +291,7 @@ a.especial {
 }
 
 div > p {
+    
     font-weight: bold;
     display: none;
     text-align: center;
