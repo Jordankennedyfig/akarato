@@ -291,12 +291,13 @@ a.especial {
 }
 
 div > p {
-    
+
     font-weight: bold;
     display: none;
     text-align: center;
 }
 .dev:hover > p {
+
     display: block;
     text-align: left;
     color: rgb(0, 0, 0);
@@ -320,10 +321,12 @@ div > p {
 }
 
 article > p {
+
     color: black;
     font-weight: normal;
 }
 article > h1 {
+    
     color: black;
     font-family: "Anton", Arial, sans-serif;
     text-align: center;
