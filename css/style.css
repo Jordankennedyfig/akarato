@@ -326,13 +326,14 @@ article > p {
     font-weight: normal;
 }
 article > h1 {
-    
+
     color: black;
     font-family: "Anton", Arial, sans-serif;
     text-align: center;
 }
 
 #cap {
+
     background-color: #ffffff;
     display: inline-flex;
     margin: 20px;
@@ -341,6 +342,7 @@ article > h1 {
     
 }
 #cap > h1 {
+
     font-size: 5em;
 }
 #cap > p {
@@ -348,6 +350,7 @@ article > h1 {
     text-align: center;
 }
 .capstreet{ 
+    
     border-radius: 10px 10px 10px 10px; 
     float: right;
     margin-top: 180px;
