@@ -213,6 +213,7 @@ img{
 }
 
 .card {
+    
     display: inline-table;
     text-align: center;
     background-color: #ffffff;
