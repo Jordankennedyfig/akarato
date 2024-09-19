@@ -97,6 +97,7 @@ mark {
 }
 
 .mainpixo{
+    
     min-width: 300px;
     max-width: 1000px;
     background-color: #ffffff;
@@ -105,7 +106,7 @@ mark {
 
 }
 div#bio {
-    
+
     float: left;
    
     
