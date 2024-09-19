@@ -69,16 +69,18 @@ header h1 {
     
 }
 .musicas {
+    
     font-weight: bold;
     
 }
 li {
+
     display: inline-table;
     text-align: center;
 }
 
 a {
-    
+
     text-decoration: none;
 }
 
