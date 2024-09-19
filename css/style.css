@@ -164,6 +164,7 @@ main{
 
 
 footer {
+    
     font-family: Arial, Helvetica, sans-serif;
     padding: 10px;
     margin-top: 10px;
@@ -174,7 +175,7 @@ footer {
 }
 
 footer > p {
-    
+
     color: white;
 }
 
