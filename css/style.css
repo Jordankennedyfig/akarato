@@ -289,6 +289,7 @@ img {
     color: #6e6e6eaa;
 
 }
+
 .card button {
     
     text-align: center;
@@ -331,6 +332,7 @@ div > p {
     display: none;
     text-align: center;
 }
+
 .dev:hover > p {
 
     display: block;
@@ -394,10 +396,6 @@ article > h1 {
     float: right;
     margin-top: 180px;
     width: 400px;
-
-
-    
-   
 
 }
 
