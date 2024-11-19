@@ -10,7 +10,7 @@
 
 body {
 
-    background-image: linear-gradient(black, darkgrey);
+    background-image: linear-gradient(black, rgb(0, 0, 0));
     
 }
 
@@ -113,7 +113,7 @@ mark {
 
     min-width: 300px;
     max-width: 1000px;
-    background-color: #ffffff;
+    background-color: #242323;
     
 
 
@@ -182,7 +182,7 @@ header a:hover {
 
 main { 
 
-    background-color: #fff;
+    background-color:#242323;
     width: 800px;
     margin: auto;
     margin-top: 50px;
