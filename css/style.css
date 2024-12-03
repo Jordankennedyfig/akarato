@@ -343,7 +343,7 @@ div > p {
 
 #articlemusic {
 
-    background-image: linear-gradient(to bottom, #ffff, #ffff);
+    background-color: #242323;
     color: white;
     border-radius: 10px 40px;
     width: 500px;
