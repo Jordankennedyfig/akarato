@@ -367,7 +367,7 @@ article > p {
 
 article > h1 {
 
-    color: black;
+    color: rgb(255, 255, 255);
     font-family: "Anton", Arial, sans-serif;
     text-align: center;
 }
