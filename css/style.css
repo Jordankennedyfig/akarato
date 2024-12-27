@@ -94,6 +94,7 @@ p {
     text-align: center;
     margin: auto;
     padding: 5px;
+    color: white;
 }
 
 .pbio {
@@ -190,6 +191,7 @@ main {
     border-radius: 10px;
     min-width: 300px;
     max-width: 1000px;
+
 }
 
 
