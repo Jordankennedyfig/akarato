@@ -18,7 +18,7 @@ body {
 header {
 
     min-height: 150px;
-    background-image: linear-gradient(to bottom, black, rgb(0, 0, 0));   
+    background-image: linear-gradient(to top, black, rgb(58, 58, 58));   
     min-height: 150px;
     padding: 30px;
     background-repeat: no-repeat;    
