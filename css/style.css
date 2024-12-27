@@ -361,7 +361,7 @@ div > p {
 
 article > p {
 
-    color: black;
+    color: rgb(255, 255, 255);
     font-weight: normal;
 }
 
