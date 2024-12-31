@@ -419,7 +419,14 @@ article > h1 {
     float: left;
 }
 
- 
+ #video {
+    position: relative;
+    background-color: var(--cor5);
+    margin: 0px -20px 30px -20px;
+    padding: 20px;
+    padding-bottom:  56.5%;
+
+ }
 
 
     
