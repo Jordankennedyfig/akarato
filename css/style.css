@@ -439,9 +439,15 @@ article > h1 {
  }
  
  div#quadrado01 { 
-    background-image: url(img/lost500.jpg);   
-    background-color: #3c7cc4; 
+    background-image: url(/img/rat500.jpg);   
 
+ }
+ div#quadrado02 {
+    background-image: url(/img/lost500.jpg);
+ }
+
+ div#quadrado03 {
+    background-image: url(/img/dg500.jpg);
  }
 
     
