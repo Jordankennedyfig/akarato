@@ -428,6 +428,20 @@ article > h1 {
 
  }
 
+ div.quadrado { 
+
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: lightgrey;
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+ }
+ 
+ div#quadrado01 {
+    background-image: ;
+
+ }
 
     
 
