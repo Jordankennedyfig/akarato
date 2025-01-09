@@ -438,8 +438,9 @@ article > h1 {
     display: inline-block;
  }
  
- div#quadrado01 {
-    background-image: ;
+ div#quadrado01 { 
+    background-image: url(img/lost500.jpg);   
+    background-color: #3c7cc4; 
 
  }
 
