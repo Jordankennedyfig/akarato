@@ -27,14 +27,14 @@ header {
 }
 
 header > h1 { 
-    text-align: center;
 
+    text-align: center;
     color: rgb(255, 255, 255);    
     font-family: var(--fonte-destaque);
     font-size: 3em;
     font-weight: normal;
     margin-bottom: 20px;
-    text-shadow: 2px 2px 0px rgba(255, 255, 255, 0.288);
+    text-shadow: 2px 2px 0px rgba(255, 255, 255, 0.63);
 }
 
 .navum { 
