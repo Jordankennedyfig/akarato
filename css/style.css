@@ -37,6 +37,12 @@ header > h1 {
     text-shadow: 2px 2px 0px rgba(255, 255, 255, 0.322);
 }
 
+.titulo {
+    color: rgba(53, 53, 53, 0.37);
+    text-shadow: 2px 2px 0px rgba(255, 255, 255, 0.322);
+}
+
+
 .navum { 
     
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
