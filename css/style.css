@@ -414,8 +414,8 @@ article > h1 {
 }
 
 #bio {
+    
     color: rgb(255, 255, 255);
-
     float: right;
     position: relative;
     margin: 5px;
@@ -490,3 +490,4 @@ main {
     padding: 20px;
    
 }
+
