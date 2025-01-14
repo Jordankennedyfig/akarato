@@ -261,7 +261,7 @@ img {
 
     display: inline-table;
     text-align: center;
-    background-color: #ffffff;
+    background-color: #242323;
     width: 180px;
     height: 200px;
     border-radius: 2px 20px;
@@ -272,7 +272,7 @@ img {
     margin: auto;
     width: 100%;
     height: 130px;
-    border-radius: 2px 20px;
+    border-radius: 0x 0px;
 
 }
 
@@ -290,14 +290,14 @@ img {
 
     text-align: center;    
     font-size: 1.2rem;
-    color: #000000;
+    color: #ffffffbb;
     }
 
 .card h2 {
 
     text-align: center; 
     font-size: .9rem;
-    color: #6e6e6eaa;
+    color: #ffffffaf;
 
 }
 
@@ -312,12 +312,12 @@ img {
     color: #000000;
     font-size: 1rem;
     font-weight: bold;
-    border-radius: 2px ;
+    border-radius: 0px ;
 }
 
 .card button:hover {
 
-    background-color: #3c7cc4;
+    background-color: #000000ad;
     cursor: pointer;
 }
 
