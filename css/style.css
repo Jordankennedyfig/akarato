@@ -478,3 +478,12 @@ div.video > iframe {
     height: 90%;
 
 }
+
+main {
+    min-width: 200px;
+    max-width: 1000px;
+    margin: auto;
+    margin-bottom: 30px;
+    padding: 20px;
+   
+}
