@@ -34,12 +34,13 @@ header > h1 {
     font-size: 3em;
     font-weight: normal;
     margin-bottom: 20px;
-    text-shadow: 2px 2px 0px rgba(255, 255, 255, 0.322);
+    text-shadow: 2px 2px 0px rgba(255, 255, 255, 0.829);
 }
 
 .titulo {
-    color: rgba(53, 53, 53, 0.37);
-    text-shadow: 2px 2px 0px rgba(255, 255, 255, 0.322);
+
+    color: rgba(53, 53, 53, 0.685);
+   
 }
 
 
