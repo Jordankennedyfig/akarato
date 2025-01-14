@@ -105,10 +105,11 @@ p {
     color: white;
 }
 
+
 .pbio {
 
     margin: 40px;
-    text-align: right;
+    text-align: center;
 }
 
 mark {
@@ -331,7 +332,7 @@ a.especial {
 
     font-style: italic; 
     text-align: left;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     
      
 }
@@ -347,7 +348,7 @@ div > p {
 
     display: block;
     text-align: left;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     
 }
 
@@ -391,14 +392,16 @@ article > h1 {
 }
 
 #cap > h1 {
-    color: white;
 
+    color:rgb(255, 255, 255);
     font-size: 5em;
+    text-align: center;
 }
 
-#cap > p {
-    
-    text-align: center;
+#pcapa {
+
+    color: white;
+   
 }
 
 .capstreet{ 
