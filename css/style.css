@@ -7,7 +7,7 @@
 
     margin: 0px;
     padding: 0px;
-    font-family: "Ubuntu", serif;
+    
 }
 
 body {
@@ -25,30 +25,26 @@ header {
     padding: 30px;
     background-repeat: no-repeat;    
     min-height: 150px;
+    
    
-}
-
-header > h1 { 
-
-    text-align: center;
-    color: rgba(87, 87, 87, 0); 
-    font-family: var(--fonte-destaque);
-    font-size: 3em;
-    font-weight: normal;
-    margin-bottom: 20px;
-    text-shadow: 2px 2px 0px rgba(78, 78, 78, 0.774);
 }
 
 .titulo {
 
+    font-family: 'Anton', sans-serif;
     color: rgba(255, 250, 250, 0.685);
+    text-align: center;
+    font-size: 5em;
+    font-weight: normal;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 0px rgba(78, 78, 78, 0.774);
    
 }
 
 
 .navum { 
     
-    font-family: "Ubuntu", serif;
+    font-family: Arial, Helvetica, sans-serif;
     background-color: #0000006e;
     color: #020202;
     padding: 15px;
@@ -76,7 +72,7 @@ nav > a:hover {
 
 header h1 { 
 
-    font-family: "Ubuntu", serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: normal;
     font-size: 70px;
     
@@ -140,14 +136,14 @@ h1#pixo {
 
 h1 {
 
-    font-family: "Ubuntu", serif;
-    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3em;
 }
 
 header h1 {
 
     color: rgb(41, 41, 41);
-    font-family: "Ubuntu", serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: normal;
     margin-top: 240px;
     margin-left: 30px;     
@@ -160,7 +156,7 @@ header {
     font-size: 0.9em;
     text-align: right;
     padding: 10px;           
-    font-family: "Ubuntu", serif;
+    font-family: Arial, Helvetica, sans-serif;
 
 }
 
@@ -190,7 +186,7 @@ main {
 
 footer {
 
-    font-family: "Ubuntu", serif;
+    font-family: Arial, Helvetica, sans-serif;
     padding: 10px;
     margin-top: 10px;
     color: white;
