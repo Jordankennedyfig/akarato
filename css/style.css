@@ -235,6 +235,12 @@ img {
     border-radius: 0px ;
 }
 
+button a {
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
 .card button:hover {
 
     background-color: #000000ad;
