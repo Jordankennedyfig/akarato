@@ -371,6 +371,7 @@ article > h1 {
     color: rgb(255, 255, 255);
     font-family: "Anton", Arial, sans-serif;
     text-align: center;
+    font-size: 3em;
 }
 
 #cap {
@@ -386,7 +387,7 @@ article > h1 {
 main> h1 {
 
     color:rgb(255, 255, 255);
-    font-size: 5em;
+    font-size: 3em;
     text-align: center;
 }
 
