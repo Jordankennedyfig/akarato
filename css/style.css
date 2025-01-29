@@ -69,41 +69,6 @@ nav > a:hover {
     font-weight: bold;
 }
 
-
-header h1 { 
-
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: normal;
-    font-size: 70px;
-    
-}
-
-.musicas {
-
-    font-weight: bold;
-    
-}
-
-li {
-
-    display: inline-table;
-    text-align: center;
-}
-
-a {
-
-    text-decoration: none;
-}
-
-p {
-
-    text-align: center;
-    margin: auto;
-    padding: 5px;
-    color: white;
-}
-
-
 .pbio {
 
     margin: 40px;
@@ -128,7 +93,8 @@ mark {
 }
 
 h1#pixo {
-
+    
+    font-family: 'Anton', sans-serif;
     font-weight: normal;
     text-align: center;
     color: #ffffff;
@@ -139,35 +105,9 @@ h1 {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 3em;
 }
-
-header h1 {
-
-    color: rgb(41, 41, 41);
-    font-family: Arial, Helvetica, sans-serif;
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: normal;
-    margin-top: 240px;
-    margin-left: 30px;     
-
-}
-
-header { 
-
-    margin-right: 20px;
-    font-size: 0.9em;
-    text-align: right;
-    padding: 10px;           
-    font-family: Arial, Helvetica, sans-serif;
-
-}
-
-header a {
-
-    text-decoration: none;
-    color: rgb(255, 255, 255);
-    margin: 10px;
-    padding: 10px;
-    font-weight: bold;
-
 }
 
 main { 
@@ -267,14 +207,14 @@ img {
 }
 
 .card h1 {
-
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;    
     font-size: 1.2rem;
     color: #ffffffbb;
     }
 
 .card h2 {
-
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center; 
     font-size: .9rem;
     color: #ffffffaf;
@@ -282,7 +222,7 @@ img {
 }
 
 .card button {
-    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
     text-align: center;
     background-color: #000000da;
     height: 30px;
@@ -309,7 +249,7 @@ a.especial {
 }
 
 .dev {
-
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: italic; 
     text-align: left;
     color: rgb(255, 255, 255);
@@ -319,7 +259,8 @@ a.especial {
 
 div > p {
 
-    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: normal;
     display: none;
     text-align: center;
 }
@@ -349,9 +290,9 @@ div > p {
 }
 
 article > p {
-
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: rgb(255, 255, 255);
-    font-weight: normal;
+    
 }
 
 article > h1 {
@@ -377,15 +318,19 @@ main> h1 {
     color:rgb(255, 255, 255);
     font-size: 3em;
     text-align: center;
+    font-family: 'Anton', sans-serif;
 }
 
 main .h1bio {
 
     text-align: left;
+    font-family: 'Anton', sans-serif;
 }
 
-main p  {
 
+
+main p  {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: white;
     text-align: center;
 
