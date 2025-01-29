@@ -383,19 +383,19 @@ article > h1 {
     
 }
 
-#cap > h1 {
+main> h1 {
 
     color:rgb(255, 255, 255);
     font-size: 5em;
     text-align: center;
 }
 
-#cap .h1bio {
+main .h1bio {
 
     text-align: left;
 }
 
-#cap p  {
+main p  {
 
     color: white;
     text-align: center;
