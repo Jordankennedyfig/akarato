@@ -76,7 +76,7 @@ nav > a:hover {
 
 header h1 { 
 
-    font-family: 'Anton', sans-serif;
+    font-family: "Ubuntu", serif;
     font-weight: normal;
     font-size: 70px;
     
@@ -140,14 +140,14 @@ h1#pixo {
 
 h1 {
 
-    font-family: "Anton", Arial, sans-serif;
+    font-family: "Ubuntu", serif;
     font-weight: normal;
 }
 
 header h1 {
 
     color: rgb(41, 41, 41);
-    font-family: "Anton", sans-serif;
+    font-family: "Ubuntu", serif;
     font-weight: normal;
     margin-top: 240px;
     margin-left: 30px;     
@@ -160,7 +160,7 @@ header {
     font-size: 0.9em;
     text-align: right;
     padding: 10px;           
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Ubuntu", serif;
 
 }
 
@@ -190,7 +190,7 @@ main {
 
 footer {
 
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Ubuntu", serif;
     padding: 10px;
     margin-top: 10px;
     color: white;
@@ -307,7 +307,7 @@ img {
 
 a.especial {
 
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Ubuntu", serif;
     color: white;
     font-weight: normal;
 }
