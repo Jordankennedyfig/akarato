@@ -265,7 +265,7 @@ a.especial {
      
 }
 
-div > p {
+.div > p {
 
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: normal;
@@ -281,36 +281,7 @@ div > p {
     
 }
 
-#articlemusic {
 
-    background-color: #242323;
-    color: white;
-    border-radius: 10px 40px;
-    width: 700px;
-    /*pra colocar no o article no canto, o width: 500px;*/
-
-    margin: 10px 20px 10px 20px;
-    text-align: center; 
-    min-width: 300px;
-    max-width: 1000px;
-    
-
-    
-}
-article > p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: rgb(255, 255, 255);
-    
-}
-
-article > h1 {
-
-    color: rgb(255, 255, 255);
-    font-family: "Anton", Arial, sans-serif;
-    text-align: center;
-    font-size: 3em;
-    font-weight: normal;
-}
 
 #cap {
 
