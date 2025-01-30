@@ -123,33 +123,21 @@ main {
 
 }
 
-
-footer {
-
-    font-family: Arial, Helvetica, sans-serif;
-    padding: 10px;
-    margin-top: 10px;
-    color: white;
-    background-color: rgb(0, 0, 0);
+nav  {
     text-align: center;
-
+   
 }
 
-footer > p {
 
-    color: white;
-}
-
-#footer {
-
-    background-color: #000000f1;
-}
+ 
 
 nav > h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
-    background-color: rgb(0, 0, 0);
+    background-color: #242323;
     color: rgb(255, 255, 255);
     font-size: normal;
+    text-align: center;
 }
 
 
@@ -164,16 +152,16 @@ img {
 .icon {
 
     margin-left: 25px;
-    width: 25px;
-    background-color: aliceblue;
+    width: 50px;
+    background-color:;
     display: inline-block;
     padding: 15px;
 }
 
 .icon:hover {
 
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.444);
-    transform: translate(-5px, -5px);
+    box-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
+    transform: translate(5px, -5px);
     transition: 0.5s;
 }
 
