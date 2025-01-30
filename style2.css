@@ -1,0 +1,198 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Ubuntu:wght@300;400;500;700&display=swap');
+
+/* Reset geral */
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* 🔹 Fundo do site */
+body {
+    background-image: linear-gradient(rgb(46, 46, 46), black);
+    font-family: Arial, sans-serif;
+    padding: 10px;
+}
+
+/* 🔹 Header */
+header {
+    background-image: linear-gradient(to top, rgb(58, 58, 58));
+    min-height: 150px;
+    padding: 30px;
+    text-align: center;
+}
+
+/* 🔹 Título */
+.titulo {
+    font-family: 'Anton', sans-serif;
+    color: rgba(255, 250, 250, 0.85);
+    font-size: 3.5em;
+    text-shadow: 2px 2px 0px rgba(78, 78, 78, 0.774);
+}
+
+/* 🔹 Navbar */
+nav {
+    text-align: center;
+    background-color: #242323;
+    padding: 10px;
+    margin-top: 15px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+    display: inline-block;
+}
+
+nav a:hover {
+    background-color: rgba(255, 255, 255, 0.4);
+    border-radius: 10px;
+}
+
+/* 🔹 Conteúdo principal */
+main {
+    background-color: #242323;
+    width: 90%;
+    max-width: 1000px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+h1, h2 {
+    color: white;
+    font-family: 'Anton', sans-serif;
+    font-size: 3.5em;
+}
+.h1bio {
+    text-align: left;
+}
+
+h3, h4 { 
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+/* 🔹 Parágrafos */
+p {
+    color: white;
+    font-size: 1.2em;
+    line-height: 1.5;
+}
+
+/* 🔹 Imagens */
+img {
+    width: 400px;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+nav img {
+    width: 50px;
+}
+/* 🔹 Cards Responsivos */
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.card {
+    background-color: #242323;
+    width: 180px;
+    height: 240px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 12px #00000079;
+    text-align: center;
+    padding: 10px;
+    display: inline-block;
+    flex-direction: column;
+}
+
+.card img {
+    width: 100%;
+    height: 130px;
+    border-radius: 10px 10px 0 0;
+}
+
+.card h1 {
+    font-size: 1.2rem;
+    color: #ffffffbb;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.card h2 {
+
+    font-size: 0.9rem;
+    color: #ffffffaf;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.card button {
+
+    background-color: #181818;
+    height: 30px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    width: 100%;
+    border-radius: 0 0 5px 5px;
+    cursor: pointer;
+
+}
+
+.card button:hover {
+    background-color: #000000ad;
+}
+
+.card button a {
+    color: white;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/* 🔹 Rodapé */
+.dev {
+    font-style: italic; 
+    text-align: left;
+    color: white;
+    margin-top: 20px;
+}
+
+
+/* 🔹 Responsividade - Mobile */
+@media (max-width: 768px) {
+    .titulo {
+        font-size: 2.5em;
+    }
+
+    main {
+        width: 100%;
+        padding: 15px;
+    }
+
+    /* Cards continuam na mesma ordem, mas ocupam mais espaço */
+    .card-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .card {
+        width: 50%;
+    }
+
+    nav a {
+        display: block;
+        padding: 8px;
+    }
+}
