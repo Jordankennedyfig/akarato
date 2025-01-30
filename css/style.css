@@ -127,9 +127,11 @@ nav  {
     text-align: center;
    
 }
+nav a {
+    padding: 0px;
 
+}
 
- 
 
 nav > h3 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
