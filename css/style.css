@@ -131,6 +131,15 @@ nav a {
     padding: 0px;
 
 }
+ nav h4 {
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #242323;
+    color: rgb(255, 255, 255);
+    font-size: normal;
+    text-align: center;
+
+ }
 
 
 nav > h3 {
