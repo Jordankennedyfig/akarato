@@ -25,6 +25,10 @@ header {
     text-align: center;
 }
 
+header h1 { 
+    text-align: center;
+
+}
 /* 🔹 Título */
 .titulo {
     font-family: 'Anton', sans-serif;
@@ -69,6 +73,7 @@ h1, h2 {
     color: rgb(247, 247, 247);
     font-family: 'Anton', sans-serif;
     font-size: 3.5em;
+    text-align: left;
 }
 .h1bio {
     text-align: left;
