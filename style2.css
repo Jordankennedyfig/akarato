@@ -73,13 +73,10 @@ h1, h2 {
     color: rgb(247, 247, 247);
     font-family: 'Anton', sans-serif;
     font-size: 3.5em;
-    font-size: normal;
- 
+    font-weight: normal;
     text-align: left;
 }
-.h1bio {
-    text-align: left;
-}
+
 
 h3, h4 { 
     color: white;
@@ -96,7 +93,7 @@ p {
 
 /* 🔹 Imagens */
 img {
-    width: 400px;
+    width: 300px;
     max-width: 100%;
     height: auto;
     display: block;
