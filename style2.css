@@ -12,29 +12,30 @@
 
 /* 🔹 Fundo do site */
 body {
-    background-image: linear-gradient(rgb(46, 46, 46), black);
+    background-color: #B4B4B4;
     font-family: Arial, sans-serif;
     padding: 10px;
 }
 
 /* 🔹 Header */
 header {
-    background-image: linear-gradient(to top, rgb(58, 58, 58));
+    background-image: url(css/sabota_header_1920px.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     min-height: 150px;
-    padding: 30px;
+    padding: 50px;
     text-align: center;
 }
 
-header h1 { 
-    text-align: center;
 
-}
 /* 🔹 Título */
 .titulo {
     font-family: 'Anton', sans-serif;
-    color: rgba(255, 250, 250, 0.85);
-    font-size: 4em;
-    text-shadow: 2px 2px 0px rgba(2, 2, 2, 0.774);
+    color: rgba(0, 0, 0, 0.85);
+    font-size: 4.5em;
+    text-shadow: 2px 2px 0px rgb(248, 248, 248);
+    text-align: center;
 }
 
 /* 🔹 Navbar */
@@ -101,7 +102,7 @@ img {
     border-radius: 10px;
 }
 nav img {
-    width: 50px;
+    width: 35px;
 }
 /* 🔹 Cards Responsivos */
 .card-container {
