@@ -73,6 +73,8 @@ h1, h2 {
     color: rgb(247, 247, 247);
     font-family: 'Anton', sans-serif;
     font-size: 3.5em;
+    font-size: normal;
+ 
     text-align: left;
 }
 .h1bio {
