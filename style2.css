@@ -173,6 +173,11 @@ nav img {
     margin-top: 20px;
 }
 
+mark {
+    background-color: #1debd99c;
+    text-decoration: none;
+}
+
 
 /* 🔹 Responsividade - Mobile */
 @media (max-width: 768px) {
