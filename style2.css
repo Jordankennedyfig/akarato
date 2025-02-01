@@ -166,6 +166,7 @@ nav img {
     text-decoration: none;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
 /* 🔹 Rodapé */
 .dev {
     font-style: italic; 
@@ -174,10 +175,11 @@ nav img {
     margin-top: 20px;
 }
 
-div > p{ 
+ .dev > p { 
     display: none;
 }
-div:hover > p {
+
+ .dev:hover > p {
     
     display: block;
     color: rgb(253, 253, 253);
@@ -185,7 +187,7 @@ div:hover > p {
 
 }
 
-div:hover {
+ .dev:hover {
     color: rgb(253, 253, 253);
 }
 
