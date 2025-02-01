@@ -19,7 +19,7 @@ body {
 
 /* 🔹 Header */
 header {
-    background-image: url(css/sabota_header_1920px.png);
+    background-image: url(/img/sabota_header_1920px.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
