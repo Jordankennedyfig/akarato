@@ -105,6 +105,11 @@ img {
     margin: 10px auto;
     border-radius: 10px;
 }
+
+.capstreet {
+    width: 300px;
+   
+}
 nav img {
     width: 35px;
 }
@@ -200,8 +205,6 @@ mark {
     text-decoration: none;
 }
 
-
-
 /* 🔹 Responsividade - Mobile */
 @media (max-width: 768px) {
     .titulo {
@@ -209,12 +212,14 @@ mark {
     }
 
     main {
+        
         width: 100%;
         padding: 15px;
     }
 
     /* Cards continuam na mesma ordem, mas ocupam mais espaço */
     .card-container {
+
         flex-direction: column;
         align-items: center;
     }
