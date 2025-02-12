@@ -15,18 +15,20 @@ body {
 
     background-color: #B4B4B4;
     font-family: Arial, sans-serif;
-    padding: 10px;
+    padding: 0px;
 }
 
 /* 🔹 Header */
 header {
-    background-image: url(/img/sabota_header_1920px.png);
+    background-color: #8d8d8d ;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     min-height: 150px;
     padding: 50px;
     text-align: center;
+
+   
 }
 
 
