@@ -58,13 +58,14 @@ nav a {
 }
 
 nav a:hover {
+    
     background-color: rgba(255, 255, 255, 0.4);
     border-radius: 10px;
 }
 
 /* 🔹 Conteúdo principal */
 main {
-    
+
     background-color: #242323;
     width: 90%;
     max-width: 1000px;
