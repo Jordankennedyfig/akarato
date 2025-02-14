@@ -64,6 +64,7 @@ nav a:hover {
 
 /* 🔹 Conteúdo principal */
 main {
+    
     background-color: #242323;
     width: 90%;
     max-width: 1000px;
@@ -74,6 +75,7 @@ main {
 }
 
 h1, h2 {
+
     color: rgb(247, 247, 247);
     font-family: 'Anton', sans-serif;
     font-size: 3.5em;
@@ -83,7 +85,7 @@ h1, h2 {
 }
 
 .h1capa {
-    
+
     text-align: center;
     font-size: 3.5em;
 
