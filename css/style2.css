@@ -114,15 +114,13 @@ p {
 /* 🔹 Imagens */
 
 
-.capa {
+img {
 
     width: 300px;
-    border-radius: 10px;
-
-   
+    border-radius: 5px;
+    display: list-item;
    
 }
-
 
 nav img {
 
