@@ -8,12 +8,13 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
 }
 
 /* 🔹 Fundo do site */
 body {
 
-    background-color: #B4B4B4;
+    background-color: #8d8d8d;
     font-family: Arial, sans-serif;
     padding: 0px;
 }
@@ -86,8 +87,6 @@ h1, h2 {
 }
 
 .h1capa {
-
-    text-align: center;
     font-size: 3.5em;
 
 }
@@ -117,7 +116,7 @@ p {
 
 .capa {
 
-    width: 400px;
+    width: 300px;
     border-radius: 10px;
 
    
@@ -127,7 +126,7 @@ p {
 
 nav img {
 
-    width: 50px;
+    width: 35px;
     max-width: 100%;
     height: auto;
     margin: 10px auto;
@@ -228,8 +227,30 @@ nav img {
 }
 
 mark {
-    background-color: #1debd99c;
+    background-color: #ffffff54;
     text-decoration: none;
+}
+
+
+a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-weight: normal;
+}
+a:visited {
+    color: rgb(255, 255, 255);
+    
+}
+a:hover { 
+    text-decoration: underline;
+    color: rgb(255, 255, 255);
+
+     
+}
+a:active {
+    color: rgb(255, 255, 255);
+
+   
 }
 
 /* 🔹 Responsividade - Mobile */
