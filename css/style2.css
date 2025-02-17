@@ -91,6 +91,8 @@ h1, h2 {
 
 }
 
+
+
 .h1musica {
 
     text-align: center;
@@ -111,8 +113,6 @@ p {
     line-height: 1.5;
 }
 
-/* 🔹 Imagens */
-
 
 img {
 
@@ -121,6 +121,7 @@ img {
     display: list-item;
    
 }
+
 
 nav img {
 
