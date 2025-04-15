@@ -25,14 +25,14 @@
 /* 🔹 Fundo do site */
 body {
 
-    background-color: #474747;
+    background-color: var(--cor1);
     font-family: Arial, sans-serif;
     padding: 0px;
 }
 
 /* 🔹 Header */
 header {
-    background-color: #474747 ;
+    background-color: var(--cor1) ;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
