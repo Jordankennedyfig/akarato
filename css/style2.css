@@ -47,9 +47,9 @@ header {
 /* 🔹 Título */
 .titulo {
     font-family: 'Anton', sans-serif;
-    color: rgba(0, 0, 0, 0.85);
+    color: var(--cor2);
     font-size: 6.5em;
-    text-shadow: 2px 2px 0px rgba(248, 248, 248, 0.5);
+    text-shadow: 2px 2px 0px #dfe9f19c;
     text-align: center;
 }
 
