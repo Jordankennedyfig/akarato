@@ -25,14 +25,14 @@
 /* 🔹 Fundo do site */
 body {
 
-    background-color: var(--cor1);
+    background-color: var(--cor0);
     font-family: Arial, sans-serif;
     padding: 0px;
 }
 
 /* 🔹 Header */
 header {
-    background-color: var(--cor1) ;
+    background-color: var(--cor0) ;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -49,14 +49,14 @@ header {
     font-family: 'Anton', sans-serif;
     color: var(--cor2);
     font-size: 6.5em;
-    text-shadow: 2px 2px 0px #dfe9f19c;
+    text-shadow: 2px 2px 0px #ffffff9c ;
     text-align: center;
 }
 
 /* 🔹 Navbar */
 nav {
     text-align: center;
-    background-color: #24232300;
+    background-color: #b6010100;
     padding: 10px;
     margin-top: 5px;
 }
@@ -78,7 +78,7 @@ nav a:hover {
 /* 🔹 Conteúdo principal */
 main {
 
-    background-color: #242323ec;
+    background-color: var(--cor1);
     width: 90%;
     max-width: 1000px;
     margin: 20px auto;
@@ -89,7 +89,7 @@ main {
 
 h1, h2 {
 
-    color: rgb(247, 247, 247);
+    color: #ffff;
     font-family: 'Anton', sans-serif;
     font-size: 3.5em;
     font-weight: normal;
@@ -115,7 +115,7 @@ h1, h2 {
 /* 🔹 Parágrafos */
 p {
     
-    color: white;
+    color: #ffff;
     font-size: 1.1em;
     line-height: 1.5;
 }
@@ -123,7 +123,7 @@ p {
 
 img {
 
-    width: 250px;
+    width: 230px;
     border-radius: 5px;
     display: list-item;
    
@@ -141,6 +141,7 @@ nav img {
     
    
 }
+
 
 /*
 .card-container {
@@ -210,7 +211,7 @@ nav img {
 .dev {
     font-style: italic; 
     text-align: right;
-    color: rgba(253, 253, 253, 0.123);
+    color: rgb(253, 253, 253);
     margin-top: 20px;
     font-size: 0.8em;
 }
@@ -233,7 +234,7 @@ nav img {
 }
 
 mark {
-    background-color: #ffffff54;
+    background-color: var(--cor4);
     text-decoration: none;
 }
 
