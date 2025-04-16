@@ -4,12 +4,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Ubuntu:wght@300;400;500;700&display=swap');
 
 :root {
-    --cor0:#2B3033;
-    --cor1:#2B3841;
-    --cor2:#36566B;
-    --cor3:#008DEB;
-    --cor4:#326E96;
-    --cor5:#2080C0;
+    --cor0:#032133;
+    --cor1:#0C2534;
+    --cor2:#26495E;
+    --cor3:#C8D5DDEB;
+    --cor4:#4E7289;
+    --cor5:#84A1B3;
 
 }
 
@@ -25,14 +25,14 @@
 /* 🔹 Fundo do site */
 body {
 
-    background-color: var(--cor0);
+    background-color: var(--cor1);
     font-family: Arial, sans-serif;
     padding: 0px;
 }
 
 /* 🔹 Header */
 header {
-    background-color: var(--cor0) ;
+    background-color: var(--cor1) ;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -47,9 +47,9 @@ header {
 /* 🔹 Título */
 .titulo {
     font-family: 'Anton', sans-serif;
-    color: var(--cor2);
+    color: var(--cor4);
     font-size: 6.5em;
-    text-shadow: 2px 2px 0px #ffffff9c ;
+    text-shadow: 2px 2px 0px #ffffffd5 ;
     text-align: center;
 }
 
@@ -78,7 +78,7 @@ nav a:hover {
 /* 🔹 Conteúdo principal */
 main {
 
-    background-color: var(--cor1);
+    background-color: var(--cor4);
     width: 90%;
     max-width: 1000px;
     margin: 20px auto;
@@ -89,7 +89,7 @@ main {
 
 h1, h2 {
 
-    color: #ffff;
+    color: var(--cor1);
     font-family: 'Anton', sans-serif;
     font-size: 3.5em;
     font-weight: normal;
@@ -115,7 +115,7 @@ h1, h2 {
 /* 🔹 Parágrafos */
 p {
     
-    color: #ffff;
+    color: var(--cor3);
     font-size: 1.1em;
     line-height: 1.5;
 }
@@ -234,7 +234,7 @@ nav img {
 }
 
 mark {
-    background-color: var(--cor4);
+    background-color: var(--cor5);
     text-decoration: none;
 }
 
