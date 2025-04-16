@@ -10,6 +10,7 @@
     --cor3:#C8D5DDEB;
     --cor4:#4E7289;
     --cor5:#84A1B3;
+    --cor6:#ffff;
 
 }
 
@@ -47,9 +48,9 @@ header {
 /* 🔹 Título */
 .titulo {
     font-family: 'Anton', sans-serif;
-    color: var(--cor4);
+    color: var(--cor6);
     font-size: 6.5em;
-    text-shadow: 2px 2px 0px #ffffffd5 ;
+    text-shadow: 2px 2px 0px #84A1B3 ;
     text-align: center;
 }
 
