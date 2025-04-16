@@ -126,6 +126,7 @@ img {
     width: 230px;
     border-radius: 5px;
     display: list-item;
+    margin: 20px;
    
 }
 
@@ -142,70 +143,6 @@ nav img {
    
 }
 
-
-/*
-.card-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 15px;
-    margin-top: 20px;
-}
-
-.card {
-    background-color: #242323;
-    width: 180px;
-    height: 240px;
-    border-radius: 10px;
-    box-shadow: 4px 4px 12px #00000079;
-    text-align: center;
-    padding: 10px;
-    display: inline-block;
-    flex-direction: column;
-}
-
-.card img {
-    width: 100%;
-    height: 130px;
-    border-radius: 10px 10px 0 0;
-}
-
-.card h1 {
-    font-size: 1.2rem;
-    color: #ffffffbb;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-
-.card h2 {
-
-    font-size: 0.9rem;
-    color: #ffffffaf;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-
-.card button {
-
-    background-color: #181818;
-    height: 30px;
-    border: none;
-    color: white;
-    font-weight: bold;
-    width: 100%;
-    border-radius: 0 0 5px 5px;
-    cursor: pointer;
-
-}
-
-.card button:hover {
-    background-color: #000000ad;
-}
-
-.card button a {
-    color: white;
-    text-decoration: none;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-*/
 
 /* 🔹 Rodapé */
 .dev {
