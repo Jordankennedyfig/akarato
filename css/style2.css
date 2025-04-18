@@ -149,7 +149,7 @@ nav img {
 .dev {
     font-style: italic; 
     text-align: right;
-    color: rgb(253, 253, 253);
+    color: var(--cor3);
     margin-top: 20px;
     font-size: 0.8em;
 }
