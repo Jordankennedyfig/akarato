@@ -162,13 +162,13 @@ nav img {
  .dev:hover > p {
     
     display: block;
-    color: rgb(253, 253, 253);
+    color: var(--cor3);
     font-size: 0.7em;
 
 }
 
  .dev:hover {
-    color: rgb(253, 253, 253);
+    color: var(--cor3);
 }
 
 mark {
