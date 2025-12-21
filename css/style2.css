@@ -121,6 +121,9 @@ p {
     line-height: 1.5;
 }
 
+nav > p {
+    color: black;
+}
 
 img {
 
